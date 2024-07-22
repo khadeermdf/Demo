@@ -11,7 +11,7 @@ public class RESTAPITEST {
 		System.out.println("RestAPI testing 2st test");
 		System.out.println("RestAPI testing 3st test");
 		System.out.println("RestAPI testing 4st test");
-		System.out.println("RestAPI testing 5st test");
+		System.out.println("RestAPI testing 6st test");
 	}
 
 	@AfterTest
