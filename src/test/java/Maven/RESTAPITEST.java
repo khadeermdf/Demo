@@ -8,6 +8,8 @@ public class RESTAPITEST {
 	@Test
 	public void BrowserAutomation() {
 		System.out.println("RestAPI testing 1st test");
+		System.out.println("RestAPI testing 2st test");
+		System.out.println("RestAPI testing 3st test");
 	}
 
 	@AfterTest
